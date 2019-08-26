@@ -16,4 +16,8 @@
 
 ![](stop.jpg)
 
-1.Stop sign: You must wait until crossing vehicles and pedestrains have cleared.
+1. Stop sign: You must wait until crossing vehicles and pedestrains have cleared.
+
+![](Do not enter.jpg)
+
+2. Do not enter sign: When you see this sign at road openings do not enter this road.
