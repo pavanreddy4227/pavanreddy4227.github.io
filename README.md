@@ -1,1 +1,15 @@
-# pavanreddy4227.github.io
+# Traffic Rules and Regulations in USA
+
+1. In USA steering wheels are situated on left side of the car.
+
+2. Always drive on right side of the road.
+
+3. Pedestrain should cross the road only at zebra crossing.
+
+4. Every vechile should maintain a speed of 15 m/h.
+
+5. Vehicles should not pass other vehicles where there is no passing zone
+
+6. Yellow lines separate traffic moving in opposing directions.
+
+## Road signs
