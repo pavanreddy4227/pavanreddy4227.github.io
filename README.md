@@ -16,10 +16,6 @@
 
 ![](stop.jpg)
 
-1.Stop sign: You must wait until crossing vehicles and pedestrains have cleared.
-
-![](stop.jpg)
-
 1. Stop sign: You must wait until crossing vehicles and pedestrains have cleared.
 
 ![](Donotenter.jpg)
