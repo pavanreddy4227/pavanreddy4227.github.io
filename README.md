@@ -13,3 +13,10 @@
 6. Yellow lines separate traffic moving in opposing directions.
 
 ## Road signs
+<<<<<<< HEAD
+=======
+
+![](stop.jpg)
+
+1.Stop sign: You must wait until crossing vehicles and pedestrains have cleared.
+>>>>>>> 25e9e857e5b4b610d4da9231e07ddbb68e9c2d99
