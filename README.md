@@ -41,6 +41,6 @@ A right turn can be made against a red light ONLY after you stop and yield to pe
 
 ## REFERENCES
 
-- https://driving-tests.org/beginner-drivers/rules-of-the-road/
+- [Driving-Tests](https://driving-tests.org/beginner-drivers/rules-of-the-road/)
 
-- https://driversed.com/driving-information/signs-signals-and-markings/traffic-signals.aspx
+- [Driving-Information](https://driversed.com/driving-information/signs-signals-and-markings/traffic-signals.aspx)
